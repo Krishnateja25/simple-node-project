@@ -1,10 +1,10 @@
 // test.js
 const add = require('./app');
 
-// Original test
-test('adds 1 + 2 to equal 100', () => {
-  expect(add(1, 2)).toBe(100);  // This will fail
-});
+// // Original test
+// test('adds 1 + 2 to equal 100', () => {
+//   expect(add(1, 2)).toBe(100);  // This will fail
+// });
 
 // Add more tests
 test('adds 1 + 2 to equal 3', () => {

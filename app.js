@@ -1,6 +1,6 @@
 // app.js
 function add(a, b) {
-    return a + b + 1;  // Remove the intentional bug
+    return a + b;  // Remove the intentional bug
   }
   
   module.exports = add;
